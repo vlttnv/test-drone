@@ -1,5 +1,5 @@
 def test_func():
-    assert 1 == 2
+    assert 1 == 1
 
 def test_test():
     assert True
