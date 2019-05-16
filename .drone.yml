@@ -6,7 +6,7 @@ steps:
   image: python
   commands:
   - pip install -r requirements.txt
-  - pytest
+  - pytest .
 
 trigger:
   branch:
